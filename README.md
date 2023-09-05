@@ -1,0 +1,2 @@
+# RagdollEngineVCDestroyer
+Off brand Ragdoll Engine VC script includes: Invisible Map, Visible Map, Anti-Ragdoll, Spam Mines and more! (has checks for functions and works VERY properly, unlike other scripts which do not have valid checks like WaitForChild and what not lol, and will also make sure everything works (by its self) as intended instead of breaking instantly if a little detail is missing)
